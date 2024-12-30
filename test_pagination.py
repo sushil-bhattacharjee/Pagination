@@ -18,6 +18,8 @@ class MessageTest(unittest.TestCase):
 
     def test_get_messages(self):
         # Check if any messages exist
+        messages = self.msg.get_messages().json().get('items')
+        self.assertGreater(len(messages), 0)
         pass
 
     def test_has_next_page(self):

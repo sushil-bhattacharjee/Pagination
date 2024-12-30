@@ -5,6 +5,7 @@ from pprint import pprint
 
 # API Key is obtained from the Webex Teams developers website.
 api_key = 'OGFmMzBjN2YtY2UxZS00N2NlLWEyYTUtMzdjMDk0MWRjZWM3ZDRmNzA1ZGMtZGVk_P0A1_024cf1cc-0fff-4459-9d22-2bf3b7018d17'
+#https://developer.webex.com/docs/api/v1/rooms/list-rooms
 # roomId is a required parameter when fetching messages, 
 # and identifies the space (room) from which the messages will be retrieved.
 # roomId can be configured here, or collected by the set_room_id method
@@ -30,7 +31,10 @@ class Messenger():
     def get_messages(self):
         """ Get a list of messages in a room. 
         Maximum number of items per page is set to 3 """
-
+        print(f'Requesting {self.api_url}')
+        self.response = self.requests.get(self.api_url, headers=self.headers)
+        print(json.dumps(self.response.json(),indent=4))
+        return self.response
     def has_next_page(self):
         """ Check if more pages are available and set the cursor to next page.
         URI is parsed from the response Link Header """
