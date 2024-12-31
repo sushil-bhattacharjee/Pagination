@@ -1,0 +1,103 @@
+{
+    "items": [
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOWY3M2I3ZTAtZGUwMy0xMWU5LTgwYTMtNTNhYTk2MTMyN2M5",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMWUzNjJkN2MtMzE1NS0zYTM2LWEzMDgtOGYyMGEyZjE5YzM2",
+            "roomType": "direct",
+            "text": "msg 10",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85NjU0MzljNy1hNWRmLTQ3YTctOTQ1MS0yOTE2NGI3M2MzZDM",
+            "personEmail": "saso.vukomanovic@flintmail.com",
+            "created": "2019-09-23T13:11:15.294Z"
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOWU0NTk4MjAtZGUwMy0xMWU5LWFkNWMtMTM4YTljNDY3ZGI4",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMWUzNjJkN2MtMzE1NS0zYTM2LWEzMDgtOGYyMGEyZjE5YzM2",
+            "roomType": "direct",
+            "text": "msg 9",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85NjU0MzljNy1hNWRmLTQ3YTctOTQ1MS0yOTE2NGI3M2MzZDM",
+            "personEmail": "saso.vukomanovic@flintmail.com",
+            "created": "2019-09-23T13:11:13.314Z"
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOWNhZDFkZDAtZGUwMy0xMWU5LTgwYTMtNTNhYTk2MTMyN2M5",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMWUzNjJkN2MtMzE1NS0zYTM2LWEzMDgtOGYyMGEyZjE5YzM2",
+            "roomType": "direct",
+            "text": "msg 8",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85NjU0MzljNy1hNWRmLTQ3YTctOTQ1MS0yOTE2NGI3M2MzZDM",
+            "personEmail": "saso.vukomanovic@flintmail.com",
+            "created": "2019-09-23T13:11:10.637Z"
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOWI5MGIxNTAtZGUwMy0xMWU5LTliN2YtMzdkZTQ3Y2JjNWFl",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMWUzNjJkN2MtMzE1NS0zYTM2LWEzMDgtOGYyMGEyZjE5YzM2",
+            "roomType": "direct",
+            "text": "msg 7",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85NjU0MzljNy1hNWRmLTQ3YTctOTQ1MS0yOTE2NGI3M2MzZDM",
+            "personEmail": "saso.vukomanovic@flintmail.com",
+            "created": "2019-09-23T13:11:08.773Z"
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOWFiMmQ0NzAtZGUwMy0xMWU5LTk1OWYtZmIyNTZjZDAwYTY5",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMWUzNjJkN2MtMzE1NS0zYTM2LWEzMDgtOGYyMGEyZjE5YzM2",
+            "roomType": "direct",
+            "text": "msg 6",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85NjU0MzljNy1hNWRmLTQ3YTctOTQ1MS0yOTE2NGI3M2MzZDM",
+            "personEmail": "saso.vukomanovic@flintmail.com",
+            "created": "2019-09-23T13:11:07.319Z"
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOTlmOTQ4NzAtZGUwMy0xMWU5LTkzYTYtNTdmN2FkMzk5YTAy",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMWUzNjJkN2MtMzE1NS0zYTM2LWEzMDgtOGYyMGEyZjE5YzM2",
+            "roomType": "direct",
+            "text": "msg 5",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85NjU0MzljNy1hNWRmLTQ3YTctOTQ1MS0yOTE2NGI3M2MzZDM",
+            "personEmail": "saso.vukomanovic@flintmail.com",
+            "created": "2019-09-23T13:11:06.103Z"
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOThmYjM5NjAtZGUwMy0xMWU5LWFmNWYtNTNlMWQ2OGJmZGM5",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMWUzNjJkN2MtMzE1NS0zYTM2LWEzMDgtOGYyMGEyZjE5YzM2",
+            "roomType": "direct",
+            "text": "msg 4",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85NjU0MzljNy1hNWRmLTQ3YTctOTQ1MS0yOTE2NGI3M2MzZDM",
+            "personEmail": "saso.vukomanovic@flintmail.com",
+            "created": "2019-09-23T13:11:04.438Z"
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOTdlYzNhNjAtZGUwMy0xMWU5LTllZDEtOGQwNTUzNzdlZDFj",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMWUzNjJkN2MtMzE1NS0zYTM2LWEzMDgtOGYyMGEyZjE5YzM2",
+            "roomType": "direct",
+            "text": "msg 3",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85NjU0MzljNy1hNWRmLTQ3YTctOTQ1MS0yOTE2NGI3M2MzZDM",
+            "personEmail": "saso.vukomanovic@flintmail.com",
+            "created": "2019-09-23T13:11:02.662Z"
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOTZhNzg1NjAtZGUwMy0xMWU5LTlhODQtZTVjZGM3MzVkN2E5",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMWUzNjJkN2MtMzE1NS0zYTM2LWEzMDgtOGYyMGEyZjE5YzM2",
+            "roomType": "direct",
+            "text": "msg 2",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85NjU0MzljNy1hNWRmLTQ3YTctOTQ1MS0yOTE2NGI3M2MzZDM",
+            "personEmail": "saso.vukomanovic@flintmail.com",
+            "created": "2019-09-23T13:11:00.534Z"
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOTVjMjA3NjAtZGUwMy0xMWU5LTg2ZDAtZTM0NGNmZDAwZjdi",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMWUzNjJkN2MtMzE1NS0zYTM2LWEzMDgtOGYyMGEyZjE5YzM2",
+            "roomType": "direct",
+            "text": "msg 1",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85NjU0MzljNy1hNWRmLTQ3YTctOTQ1MS0yOTE2NGI3M2MzZDM",
+            "personEmail": "saso.vukomanovic@flintmail.com",
+            "created": "2019-09-23T13:10:59.030Z"
+        },
+        {
+            "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvMDQ4M2I3ODAtZGUwMy0xMWU5LWI5NjItNGI4YTZhMjk1OGZm",
+            "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMWUzNjJkN2MtMzE1NS0zYTM2LWEzMDgtOGYyMGEyZjE5YzM2",
+            "roomType": "direct",
+            "text": "HELLO FROM BOT",
+            "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMTc4YTQyOS1iOWExLTRjZjAtODQ5OS0zMTBhZGVlNTg5ODQ",
+            "personEmail": "devcore@webex.bot",
+            "created": "2019-09-23T13:06:55.352Z"
+        }
+    ]
+}

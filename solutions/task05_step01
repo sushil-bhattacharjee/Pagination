@@ -1,0 +1,11 @@
+    def test_get_next_page(self): 
+        # Get the first page 
+        print('GET FIRST PAGE') 
+        messages = self.msg.get_messages().json().get('items') 
+        self.assertGreater(len(messages), 0) 
+        self.assertTrue(self.msg.has_next_page()) 
+
+        # Get the next page 
+        print('GET NEXT PAGE') 
+        messages = self.msg.get_messages().json().get('items') 
+        self.assertGreater(len(messages), 0)

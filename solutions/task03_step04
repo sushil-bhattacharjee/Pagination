@@ -1,0 +1,7 @@
+    def get_messages(self): 
+        """ Get a list of messages in a room.  
+        Maximum number of items per page is set to 3 """ 
+        print(f'Requesting {self.api_url}') 
+        self.response = self.requests.get(self.api_url, headers=self.headers) 
+        print(json.dumps(self.response.json(),indent=4)) 
+        return self.response

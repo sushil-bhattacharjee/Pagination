@@ -1,0 +1,4 @@
+    def test_has_next_page(self): 
+        # Check if there are more pages of messages available 
+        self.msg.get_messages() 
+        self.assertTrue(self.msg.has_next_page())

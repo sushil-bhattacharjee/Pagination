@@ -1,0 +1,9 @@
+    def has_next_page(self):
+        """ Check if more pages are available and set the cursor to next page.
+        URI is parsed from the response Link Header """
+        if self.response.headers.get('Link'):
+            parsed_link_header = self._get_parsed_link_header().get('url')
+            self.api_url = parsed_link_header
+            return True
+        else:
+            return False
