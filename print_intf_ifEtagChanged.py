@@ -7,9 +7,13 @@ from rich import print
 # Disable SSL warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# RESTCONF API Details
-BASE_URL = "http://10.1.10.99:9280/restconf/data/tailf-ncs:devices/device=R1/config/"
-RESOURCE = "tailf-ned-cisco-ios:interface/GigabitEthernet=2"
+# RESTCONF API Details for IOS-XE
+# BASE_URL = "http://10.1.10.99:9280/restconf/data/tailf-ncs:devices/"
+# RESOURCE = "device=R1/config/tailf-ned-cisco-ios:interface/GigabitEthernet=2"
+
+# RESTCONF API Details for IOS-XR
+BASE_URL = "http://10.1.10.99:9280/restconf/data/tailf-ncs:devices/"
+RESOURCE = "device=xr-sandbox/config/tailf-ned-cisco-ios-xr:interface/GigabitEthernet=0%2F0%2F0%2F0"
 
 # Build the URL
 url = f"{BASE_URL}/{RESOURCE}"
